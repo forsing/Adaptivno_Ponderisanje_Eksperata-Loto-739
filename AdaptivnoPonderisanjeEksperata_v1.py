@@ -57,9 +57,9 @@ except ImportError as exc:
 
 
 DEFAULT_FILES = (
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_2974.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_plus_1730.csv",
+    "/data/loto7_4704_k83.csv",
+    "/data/loto7_4704_k83_loto_2974.csv",
+    "/data/loto7_4704_k83_loto_plus_1730.csv",
 )
 
 CONTEXT = 32
@@ -766,7 +766,7 @@ EKSPERTI — SVI PRETHODNO OCENJENI PRELAZI
   Poluzivot_30: ponder=0.065887, CDF gubitak=0.0751887, naučenih prelaza=4672, efektivna masa=43.78
   Poluzivot_120: ponder=0.367326, CDF gubitak=0.0736787, naučenih prelaza=4672, efektivna masa=173.62
 
-FINALNI NEXT: 1, 8, 14, 19, 29, 35, 39
+FINALNI NEXT: 1, x, 14, y, 29, z, 39
 Modelski skor za rangiranje: -15.19666851
 Najduži uzastopni niz: 1
 Brojeva 1..19 / 20..39: 4 / 3
@@ -817,7 +817,7 @@ EKSPERTI — SVI PRETHODNO OCENJENI PRELAZI
   Poluzivot_30: ponder=0.119607, CDF gubitak=0.0753612, naučenih prelaza=2942, efektivna masa=43.78
   Poluzivot_120: ponder=0.375106, CDF gubitak=0.0737411, naučenih prelaza=2942, efektivna masa=173.62
 
-FINALNI NEXT: 1, 5, 10, 19, 25, 35, 39
+FINALNI NEXT: 1, x, 10, y, 25, z, 39
 Modelski skor za rangiranje: -15.46794726
 Najduži uzastopni niz: 1
 Brojeva 1..19 / 20..39: 4 / 3
@@ -866,7 +866,7 @@ EKSPERTI — SVI PRETHODNO OCENJENI PRELAZI
   Poluzivot_30: ponder=0.211980, CDF gubitak=0.0749578, naučenih prelaza=1698, efektivna masa=43.78
   Poluzivot_120: ponder=0.372186, CDF gubitak=0.0735309, naučenih prelaza=1698, efektivna masa=173.61
 
-FINALNI NEXT: 1, 8, 11, 18, 28, 33, 39
+FINALNI NEXT: 1, x, 11, y, 28, z, 39
 Modelski skor za rangiranje: -15.40510408
 Najduži uzastopni niz: 1
 Brojeva 1..19 / 20..39: 4 / 3
@@ -876,9 +876,9 @@ Beam pretraga nije iscrpna pretraga svih kombinacija.
 
 ============================================================================
 ZAVRŠNI NEXT PREGLED
-loto7_4704_k83.csv: 1, 8, 14, 19, 29, 35, 39
-loto7_4704_k83_loto_2974.csv: 1, 5, 10, 19, 25, 35, 39
-loto7_4704_k83_loto_plus_1730.csv: 1, 8, 11, 18, 28, 33, 39
+loto7_4704_k83.csv: 1, x, 14, y, 29, z, 39
+loto7_4704_k83_loto_2974.csv: 1, x, 10, y, 25, z, 39
+loto7_4704_k83_loto_plus_1730.csv: 1, x, 11, y, 28, z, 39
 """
 
 
