@@ -881,7 +881,7 @@ loto7_4704_k83_loto_2974.csv: 1, x, 10, y, 25, z, 39
 loto7_4704_k83_loto_plus_1730.csv: 1, x, 11, y, 28, z, 39
 """
 
-
+ 
 
 """
 adaptivno ponderisanje eksperata
